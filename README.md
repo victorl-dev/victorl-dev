@@ -44,3 +44,7 @@
   </ul>
   <div align="right" dir="auto">Made with 💜 by <a href="https://github.com/pixopjl">VL</a>.</div>
 </details>
+
+
+<!-- VIBE_START -->
+<!-- VIBE_END -->
