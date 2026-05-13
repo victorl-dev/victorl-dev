@@ -23,22 +23,17 @@
 
   <!-- Remova quebras de linha e espaços entre os <a> para evitar underscore indesejado -->
   <p dir="auto">
-    <a href="https://www.linkedin.com/in/victor-lobato-729523284/" rel="nofollow"><img src="https://camo.githubusercontent.com/1b246e3a6fa04728c6c5bfecd0d1430288447882e520033c1eca4f4a138728f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d46463030463626636f6c6f723a464646" alt="LinkedIn"></a><a href="https://discord.gg/AF3Hgvjxd5" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://www.linkedin.com/in/victor-lobato-729523284/" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg" alt="LinkedIn"></a><a href="https://discord.gg/AF3Hgvjxd5" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg" alt="Discord"><a href="https://x.com/euvictorldev" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/twitter-x.svg" alt="Twitter"></a><a href="https://instagram.com/victorl-dev" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/instagram.svg" alt="Instagram"></a>
   </p>
 
   <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">GitHub Status
-</h3>
+    <h3 tabindex="-1" class="heading-element" dir="auto">Stacks</h3>
   </div>
   
   <p dir="auto">
     <img src="https://github-readme-stats.vercel.app/api?username=victorl-dev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
   </p>
 </article>
-<details align="left">
-  <summary></summary> 
-  <div align="right" dir="auto">Made with 💜 by <a href="https://github.com/pixopjl">VL</a>.</div>
-</details>
 
 
 <!-- VIBE_START -->
