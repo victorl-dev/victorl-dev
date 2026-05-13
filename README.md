@@ -72,7 +72,7 @@
     
   <p dir="auto">
     <img src="https://img.shields.io/badge/Blitz.gg-EF3F49?style=for-the-badge&logo=riotgames&logoColor=white" alt="Blitz.gg"> 
-    <img src="https://img.shields.io/badge/1x_Medium-orange?style=flat-square" alt="Medium">
+    <img src="https://img.shields.io/badge/2x_Medium-orange?style=flat-square" alt="Medium">
     <img src="https://img.shields.io/badge/1x_Low-yellow?style=flat-square" alt="Low">
     <br>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
