@@ -23,7 +23,7 @@
 
   <!-- Remova quebras de linha e espaços entre os <a> para evitar underscore indesejado -->
   <p dir="auto">
-    <a href="https://www.linkedin.com/in/victor-lobato-729523284/" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg" alt="LinkedIn"></a><a href="https://discord.gg/AF3Hgvjxd5" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg" alt="Discord"><a href="https://x.com/euvictorldev" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/twitter-x.svg" alt="Twitter"></a><a href="https://instagram.com/victorl-dev" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/instagram.svg" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/victor-lobato-729523284/" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg" alt="LinkedIn"></a><a href="https://discord.gg/AF3Hgvjxd5" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg" alt="Discord"><a href="https://x.com/euvictorldev" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/twitter-x.svg" alt="Twitter"></a><a href="https://instagram.com/victorl-dev" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/instagram.svg" alt="Instagram"></a>
   </p>
 
   <div class="markdown-heading" dir="auto">
