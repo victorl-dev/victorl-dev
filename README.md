@@ -11,15 +11,15 @@
     </h1>
   </div>
 
-  <p align="justify" dir="auto">
-    <strong>Freelance Software Developer | SaaS Specialist | ADS Student</strong>
-    <br><br>
-    Desenvolvedor focado na criação de ecossistemas digitais e projetos <strong>Software as a Service (SaaS)</strong>, como o <strong>HadesPay</strong>. Com 20 anos e residindo em Igarapé Miri, Pará, utilizo a metodologia de <strong>"vibe coding"</strong> para acelerar a entrega de software e o planejamento arquitetural. 
-    <br><br>
-    Minha expertise envolve o desenvolvimento de chatbots multitenant e sistemas de automação de alta performance. Atualmente, aprofundo meus conhecimentos em Análise de Dados e Inteligência Artificial enquanto gerencio o ciclo de vida completo de produtos digitais, desde a infraestrutura técnica até o registro de marca e hardening de sistemas.
-    <br><br>
-    Nas horas vagas, sou entusiasta de liderança e estratégia, fã de gatos e jogador inveterado de títulos da Riot Games.
-  </p>
+  <strong>Full-stack Software Engineer & SaaS Architect</strong><br>
+  SaaS Specialist | ADS Student | Building <strong>HadesPay</strong>;
+
+  <ul dir="auto">
+    <li>🛠️ I use daily: <strong>.py, .js, .sql, .docker, .ai</strong></li>
+    <li>🤖 Engineering <strong>Multitenant AI Systems</strong> & advanced automation</li>
+    <li>⚡ High-velocity delivery through <strong>AI-Augmented Development</strong> & Strategic Architecture</li>
+    <li>💬 <code>ping</code> me about <strong>saas, ai orchestration, full-stack, strategic leadership</strong></li>
+  </ul>
 
   <div class="markdown-heading" dir="auto">
     <h3 tabindex="-1" class="heading-element" dir="auto">Connect with me</h3>
@@ -64,13 +64,11 @@
     <img src="https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white" alt="DeepSeek">
     <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
   </p>
-
-  <p dir="auto">
-    <img src="https://github-readme-stats.vercel.app/api?username=victorl-dev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
-  </p>
 </article>
 
-
+<div class="markdown-heading" dir="auto">
+    <h3 tabindex="-1" class="heading-element" dir="auto">Don't be a ghost on GitHub, use:</h3>
+</div>
 <!-- VIBE_START -->
 
 <!-- Last updated: 2026-05-13T03:47:39.419Z -->
