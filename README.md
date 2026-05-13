@@ -26,10 +26,10 @@
   </div>
 
   <p dir="auto">
-    <a href="https://www.linkedin.com/in/victor-lobato-729523284/" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg" alt="LinkedIn"></a>
-    <a href="https://discord.gg/AF3Hgvjxd5" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg" alt="Discord"></a>
-    <a href="https://x.com/euvictorldev" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/twitter-x.svg" alt="Twitter"></a>
-    <a href="https://instagram.com/victorl-dev" rel="nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/instagram.svg" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/victor-lobato-729523284/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg" alt="LinkedIn"></a>
+    <a href="https://discord.gg/AF3Hgvjxd5" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg" alt="Discord"></a>
+    <a href="https://x.com/euvictorldev" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/twitter-x.svg" alt="Twitter"></a>
+    <a href="https://instagram.com/victorl-dev" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/instagram.svg" alt="Instagram"></a>
   </p>
 
   <div class="markdown-heading" dir="auto">
@@ -83,6 +83,7 @@
 <div class="markdown-heading" dir="auto">
     <h3 tabindex="-1" class="heading-element" dir="auto">Don't be a ghost on GitHub, use:</h3>
 </div>
+
 <!-- VIBE_START -->
 
 <!-- Last updated: 2026-05-13T17:52:54.387Z -->
