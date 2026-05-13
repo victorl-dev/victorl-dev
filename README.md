@@ -15,7 +15,7 @@
   SaaS Specialist | ADS Student | Building <strong>HadesPay</strong>;
 
   <ul dir="auto">
-    <li>🛠️ I use daily: <strong>.py, .js, .sql, .docker, .ai</strong></li>
+    <li>🛠️ I use daily: <strong>.py, .js, .sql, .docker, .supabase, .ts</strong></li>
     <li>🤖 Engineering <strong>Multitenant AI Systems</strong> & advanced automation</li>
     <li>⚡ High-velocity delivery through <strong>AI-Augmented Development</strong> & Strategic Architecture</li>
     <li>💬 <code>ping</code> me about <strong>saas, ai orchestration, full-stack, strategic leadership</strong></li>
@@ -64,6 +64,20 @@
     <img src="https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white" alt="DeepSeek">
     <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
   </p>
+
+  
+  <div class="markdown-heading" dir="auto">
+    <h3 tabindex="-1" class="heading-element" dir="auto">🛡️ Security Research & Bug Bounty</h3>
+  </div>
+    
+  <p dir="auto">
+    <img src="https://img.shields.io/badge/Blitz.gg-EF3F49?style=for-the-badge&logo=riotgames&logoColor=white" alt="Blitz.gg"> 
+    <img src="https://img.shields.io/badge/1x_Medium-orange?style=flat-square" alt="Medium">
+    <img src="https://img.shields.io/badge/1x_Low-yellow?style=flat-square" alt="Low">
+    <br>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/1x_High-red?style=flat-square" alt="High">
+  </p>
 </article>
 
 <div class="markdown-heading" dir="auto">
@@ -71,8 +85,8 @@
 </div>
 <!-- VIBE_START -->
 
-<!-- Last updated: 2026-05-13T16:38:25.259Z -->
+<!-- Last updated: 2026-05-13T16:12:01.095Z -->
 
-<img src="https://raw.githubusercontent.com/victorl-dev/victorl-dev/main/ghostcommit-metrics.svg?t=1778690305259" alt="GhostCommit Metrics"/>
+<img src="https://raw.githubusercontent.com/victorl-dev/victorl-dev/main/ghostcommit-metrics.svg?t=1778688721095" alt="GhostCommit Metrics"/>
 
 <!-- VIBE_END -->
