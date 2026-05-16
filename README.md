@@ -11,8 +11,7 @@
     </h1>
   </div>
 
-  <strong>Full-stack Software Engineer & SaaS Architect</strong><br>
-  SaaS Specialist | ADS Student | Building <strong>HadesPay</strong>;
+  <strong>Full-Stack Product Engineer & SaaS Architect</strong><br>Systems Analysis Student & Security Researcher
 
   <ul dir="auto">
     <li>🛠️ I use daily: <strong>.py, .js, .sql, .docker, .supabase, .ts</strong></li>
