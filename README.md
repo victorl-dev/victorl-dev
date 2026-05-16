@@ -13,6 +13,11 @@
 
   <strong>Full-Stack Product Engineer & SaaS Architect</strong><br>Systems Analysis Student & Security Researcher
 
+<p dir="auto">
+  <img src="https://img.shields.io/badge/TryHackMe-Top_1%25_Global-880000?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Top 1%">
+  <img src="https://img.shields.io/badge/SaaS_Revenue-6--Figure-green?style=flat-square&logo=stripe&logoColor=white" alt="6-Figure Revenue">
+</p>
+
   <ul dir="auto">
     <li>🛠️ I use daily: <strong>.py, .js, .sql, .docker, .supabase, .ts</strong></li>
     <li>🤖 Engineering <strong>Multitenant AI Systems</strong> & advanced automation</li>
