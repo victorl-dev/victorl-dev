@@ -15,7 +15,7 @@
 
 <p dir="auto">
   <img src="https://img.shields.io/badge/TryHackMe-Top_1%25_Global-880000?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Top 1%">
-  <img src="https://img.shields.io/badge/SaaS_Revenue-6--Figure-green?style=flat-square&logo=stripe&logoColor=white" alt="6-Figure Revenue">
+  <img src="https://img.shields.io/badge/SaaS_Revenue-5--Figure-green?style=flat-square&logo=stripe&logoColor=white" alt="5-Figure Revenue">
 </p>
 
   <ul dir="auto">
